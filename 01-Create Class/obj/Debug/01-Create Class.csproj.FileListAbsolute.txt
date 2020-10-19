@@ -1,0 +1,6 @@
+C:\Users\less_\Desktop\DLL\Exercise Files\01-Create Class\bin\Debug\AU.dll
+C:\Users\less_\Desktop\DLL\Exercise Files\01-Create Class\bin\Debug\AU.pdb
+C:\Users\less_\Desktop\DLL\Exercise Files\01-Create Class\obj\Debug\01-Create Class.csprojAssemblyReference.cache
+C:\Users\less_\Desktop\DLL\Exercise Files\01-Create Class\obj\Debug\01-Create Class.csproj.CoreCompileInputs.cache
+C:\Users\less_\Desktop\DLL\Exercise Files\01-Create Class\obj\Debug\AU.dll
+C:\Users\less_\Desktop\DLL\Exercise Files\01-Create Class\obj\Debug\AU.pdb
